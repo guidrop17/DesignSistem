@@ -1,6 +1,6 @@
 /* eslint-disable prettier/prettier */
 import type { StoryObj, Meta } from '@storybook/react'
-import { Heading, HeadingProps } from '@my-app/index'
+import { Heading, HeadingProps } from '@my-g-ui/index'
 
 export default {
   title: 'Typography/Heading',

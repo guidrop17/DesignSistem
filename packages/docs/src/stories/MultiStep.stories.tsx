@@ -1,6 +1,6 @@
 /* eslint-disable prettier/prettier */
 import type { StoryObj, Meta } from '@storybook/react'
-import { Box, MultiStep, MultiStepProps } from '@my-app/index'
+import { Box, MultiStep, MultiStepProps } from '@my-g-ui/index'
 
 export default {
   title: 'Form/Multi Step',

@@ -1,6 +1,6 @@
 /* eslint-disable prettier/prettier */
 import type { StoryObj, Meta } from '@storybook/react'
-import { Box, Text, Checkbox, CheckboxProps } from '@my-app/index'
+import { Box, Text, Checkbox, CheckboxProps } from '@my-g-ui/index'
 
 export default {
   title: 'Form/Checkbox',

@@ -1,6 +1,6 @@
 /* eslint-disable prettier/prettier */
 import type { StoryObj, Meta } from '@storybook/react'
-import { Button, ButtonProps } from '@my-app/index'
+import { Button, ButtonProps } from '@my-g-ui/index'
 import { ArrowRight } from 'phosphor-react'
 
 export default {

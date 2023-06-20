@@ -1,6 +1,6 @@
 /* eslint-disable prettier/prettier */
 import type { StoryObj, Meta } from '@storybook/react'
-import { Avatar, AvatarProps } from '@my-app/index'
+import { Avatar, AvatarProps } from '@my-g-ui/index'
 
 export default {
   title: 'Data Display/Avatar',

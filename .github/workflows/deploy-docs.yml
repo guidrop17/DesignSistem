@@ -23,7 +23,8 @@ jobs:
       - name: Continuous Integration
         run: npm ci
 
-      - run: npm run build
+      - name: Build
+        run: npm run build
         env:
           TURBO_TOKEN: k725RTyif41WnGYFr7KVO0Tp
           TURBO_TEAM: guidrop17

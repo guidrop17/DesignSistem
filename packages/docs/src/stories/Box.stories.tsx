@@ -1,6 +1,6 @@
 /* eslint-disable prettier/prettier */
 import type { StoryObj, Meta } from '@storybook/react'
-import { Box, BoxProps, Text } from '@my-app/index'
+import { Box, BoxProps, Text } from '@my-g-ui/index'
 
 export default {
   title: 'Surfaces/Box',

@@ -1,6 +1,6 @@
 /* eslint-disable prettier/prettier */
 import type { StoryObj, Meta } from '@storybook/react'
-import { Text, TextProps } from '@my-app/index'
+import { Text, TextProps } from '@my-g-ui/index'
 
 export default {
   title: 'Typography/Text',

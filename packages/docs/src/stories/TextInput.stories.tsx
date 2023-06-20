@@ -1,6 +1,6 @@
 /* eslint-disable prettier/prettier */
 import type { StoryObj, Meta } from '@storybook/react'
-import { Box, Text, TextInput, TextInputProps } from '@my-app/index'
+import { Box, Text, TextInput, TextInputProps } from '@my-g-ui/index'
 
 export default {
   title: 'Form/Text Input',
