@@ -1,5 +1,6 @@
 {
-  "name": "@my-ui/eslint-config",
+  "name": "@my-g-ui/eslint-config",
+  "version": "1.0.0",
   "license": "MIT",
   "private": true,
   "main": "index.js",

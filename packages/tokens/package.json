@@ -1,5 +1,5 @@
 {
-  "name": "@my-ui/tokens",
+  "name": "@my-g-ui/tokens",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -14,8 +14,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@my-ui/ts-config": "*",
-    "@my-ui/eslint-config": "*",
+    "@my-g-ui/ts-config": "*",
+    "@my-g-ui/eslint-config": "*",
     "tsup": "^6.7.0",
     "typescript": "^5.0.4"
   }
