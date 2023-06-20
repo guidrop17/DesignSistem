@@ -17,7 +17,11 @@ jobs:
         with:
           node-version: 16
 
-      - run: npm ci
+      - name: Restore Dependencies
+        run: npm i
+
+      - name: Continuous Integration
+        run: npm ci
 
       - run: npm run build
         env:
