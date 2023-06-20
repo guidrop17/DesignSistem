@@ -1,4 +1,4 @@
-import { colors } from '@my-ui/tokens'
+import { colors } from '@my-g-ui/tokens'
 import { getContrast } from 'polished'
 
 export const ColorsGrid = () => {
