@@ -1,11 +1,11 @@
 import { styled } from '../../styles'
 
 export const TextInputContainer = styled('div', {
-  backgroundColor: '$gray800',
+  backgroundColor: '$gray900',
   padding: '$3 $4',
   borderRadius: '$sm',
   boxSizing: 'border-box',
-  border: '2px solid $gray900',
+  border: '1px solid $gray900',
   display: 'flex',
   alignItems: 'center',
 
@@ -43,7 +43,7 @@ export const Input = styled('input', {
   color: '$white',
   fontWeight: 'regular',
   background: 'transparent',
-  boder: 0,
+  border: 0,
   width: '100%',
 
   '&:focus': {
