@@ -1,5 +1,11 @@
 # @my-g-ui/index
 
+## 2.1.0
+
+### Minor Changes
+
+- Feat: Add Volta lib for node manager
+
 ## 2.0.1
 
 ### Patch Changes
